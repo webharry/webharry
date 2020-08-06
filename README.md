@@ -2,6 +2,9 @@
 # 一、基本信息
 - 本科北京化工大学（211）/计算机科学与技术
 - 技术博客：https://webharry.github.io/
+- 求职意向：前端开发工程师
+- 联系电话：18811403247
+- Email:1612677524@qq.com
 
 # 二、技能清单
 - 熟练掌握各项前端开发技术（JavaScript/CSS3/HTML5/ES6/Webpack/gulp
@@ -15,6 +18,18 @@
 - 能熟练使用nodejs，基于express、koa2构建服务中间层;
 - 能使用mysql数据库开发小型项目;能使用微信小程序开发商城购物车等功能；
 - 具有优秀的问题解决能力和推进能力；
+
+# 三、工作经历
+## 北京爱奇艺科技有限公司
+###  1.璞玉后台管理项目
+技术栈:vue/vuex/axios/elementui/webpack等
+
+## 搜狐新媒体技术有限公司
+###  1.文章页项目/搜狐号项目/H5活动项目/后台管理项目
+项目网址:http://www.sohu.com/a/310405562_115479 
+项目网址：https://mp.sohu.com/h5/v2/login
+技术栈:vue/axios/iview/element/less/freemarker/velocity/jquery/webpack/gulp/node.js/express/koa等
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webharry)](https://github.com/webharry/github-readme-stats)
 
