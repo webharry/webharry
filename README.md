@@ -16,7 +16,5 @@
 - 能使用mysql数据库开发小型项目;能使用微信小程序开发商城购物车等功能；
 - 具有优秀的问题解决能力和推进能力；
 
-# 三、工作经历
-## 北京爱奇艺科技有限公司 （ 2019年8月 ~ 至今 ）
-## 搜狐新媒体技术有限公司 （ 2018年4月 ~ 2019年8月 ）
-## 百融金服科技有限公司 （ 2016年5月 ~ 2018年4月 ）
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webharry)](https://github.com/webharry/github-readme-stats)
+
