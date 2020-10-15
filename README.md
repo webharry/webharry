@@ -18,17 +18,6 @@
 - 能使用mysql数据库开发小型项目;能使用微信小程序开发商城购物车等功能；
 - 具有优秀的问题解决能力和推进能力；
 
-# 三、工作经历
-## 北京爱奇艺科技有限公司
-###  1.璞玉管理系统
-技术栈:vue/vuex/axios/elementui/webpack等
-
-## 搜狐新媒体技术有限公司
-###  1.文章页/搜狐号/H5活动/后台管理系统等
-项目网址:http://www.sohu.com/a/310405562_115479 
-项目网址：https://mp.sohu.com/h5/v2/login
-技术栈:vue/axios/iview/element/less/freemarker/velocity/jquery/webpack/gulp/node.js/express/koa等
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webharry)](https://github.com/webharry/github-readme-stats)
 
