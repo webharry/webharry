@@ -1,9 +1,8 @@
-# 个人简历
-# 一、基本信息
-- 本科北京化工大学（211）/计算机科学与技术
-- 技术博客：https://webharry.github.io/
-- 求职意向：前端开发工程师
-- Email:1612677524@qq.com
+# 个人博客
+![博客地址](https://webharry.github.io/)
+
+# 掘金文章：
+![webpack5 和 Babel7 从头开始创建React应用程序](https://juejin.im/post/6890079766087467015/)
 
 # 二、技能清单
 - 熟练掌握各项前端开发技术（JavaScript/CSS3/HTML5/ES6/Webpack/gulp
