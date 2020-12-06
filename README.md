@@ -2,6 +2,9 @@
 - [个人博客地址](https://webharry.github.io/)
 - [webpack5 和 Babel7 从头开始创建React应用程序](https://juejin.im/post/6890079766087467015/)
 
+# 二、个人项目展示
+- 季多鲜农场主站：https://www.80jdx.com/
+
 # 二、技能清单
 - 熟练掌握各项前端开发技术（JavaScript/CSS3/HTML5/ES6/Webpack/gulp
 等） ，主导完成构建一套团队技术栈，包含内部组件库、脚手架搭建。熟悉响应式布局有手机版网站开发经验，能解决多屏幕分辨率的适配问题等移动端问题;
