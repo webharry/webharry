@@ -3,6 +3,7 @@
 - [webpack5 和 Babel7 从头开始创建React应用程序](https://juejin.im/post/6890079766087467015/)
 - [vue源码provide/inject原理解析](https://github.com/webharry/blog/issues/2)
 - [react-study](https://github.com/webharry/react-study) 
+- [吐血整理2020年前端面经（一）](https://juejin.cn/post/6911590352071688200)
 
 # 个人项目展示
 - 季多鲜农场主站：https://www.80jdx.com/
