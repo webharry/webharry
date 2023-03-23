@@ -11,16 +11,16 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=webharry&layout=compact"/>
 
 <a href="https://medium.com/@zluvsand">
-    <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+    <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 </a>
 <a href="https://medium.com/@zluvsand">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 </a> 
 <a href="https://medium.com/@zluvsand">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 </a> 
 <a href="https://medium.com/@zluvsand">
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </a> 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webharry)](https://github.com/webharry/github-readme-stats)
