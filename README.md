@@ -8,6 +8,8 @@
 - [吐血整理2020年前端面经（一）](https://juejin.cn/post/6911590352071688200)
 
 ### Languages and Tools
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webharry)](https://github.com/webharry/github-readme-stats)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=webharry&layout=compact"/>
 
 <a href="https://medium.com/@zluvsand">
@@ -21,6 +23,4 @@
 </a> 
 <a href="https://medium.com/@zluvsand">
   <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</a> 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webharry)](https://github.com/webharry/github-readme-stats)
+</a>
