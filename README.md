@@ -7,11 +7,7 @@
 - [react-study](https://github.com/webharry/react-study) 
 - [吐血整理2020年前端面经（一）](https://juejin.cn/post/6911590352071688200)
 
-### Languages and Tools
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=webharry)](https://github.com/webharry/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=webharry&layout=compact"/>
-
+### Languages
 <a href="https://medium.com/@zluvsand">
     <code><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 </a>
